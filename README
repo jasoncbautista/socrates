@@ -1,7 +1,18 @@
 
 Tools:
 
+Dependencies:
+
 espirma
+npm
+python 2.7
+shell / bash
+
+
+TODO:
+ - clean out blank lines
+ - copy template and generate stats inside a new folder
+ - make build script take source dir and path
 
 Steps:
 
