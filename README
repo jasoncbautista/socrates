@@ -15,8 +15,6 @@ TODO:
  - make build script take source dir and path
 
 Steps:
-
-
 - copy file
 - remove blank lines
 - count # of lines
@@ -27,3 +25,10 @@ Steps:
 
 Everything is found inside
 reports
+
+
+
+-- 
+[ ] display TODOS
+[ ]  
+ 
