@@ -1,3 +1,9 @@
+Run:
+
+for now must run inside this directory:
+
+''' ./build javascriptSource desiredReportPath  '''
+
 
 Tools:
 
